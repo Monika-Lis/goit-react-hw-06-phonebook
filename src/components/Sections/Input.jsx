@@ -1,5 +1,5 @@
 import css from '../Styles/Input.module.css';
-import PropTypes, { number } from 'prop-types';
+import PropTypes from 'prop-types';
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import Notiflix from 'notiflix';
